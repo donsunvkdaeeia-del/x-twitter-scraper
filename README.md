@@ -1,4 +1,4 @@
-# X Twitter Scraper API For Tweets, Followers, MCP
+.# X Twitter Scraper API For Tweets, Followers, MCP
 
 <table>
   <tr>
